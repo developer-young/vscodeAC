@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"charconv": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"iosfwd": "cpp",
+			"*.tcc": "cpp",
+			"iostream": "cpp",
+			"numeric": "cpp",
+			"cstdlib": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}
