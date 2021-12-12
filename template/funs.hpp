@@ -5,18 +5,20 @@ using namespace std;
 
 typedef long long ll;
 typedef unsigned long long ull;
-typedef long double ld;
-typedef vector<ll> VLL;
 typedef vector<int> VI;
-typedef long long ll;
-typedef unsigned long long ull;
-typedef long double ld;
-typedef vector<ll> VLL;
-typedef vector<int> VI;
-#define ALL(a) begin(a),end(a)
 #define PII pair<int,int>
-#define PLL pair<ll,ll>
+#define For(i,a,b) for(auto i=(a);i<(b);++i)
+#define Rep(i,n) For(i,0,(n))
+
+#define ALL(a) begin(a),end(a)
+typedef long double ld;
+typedef vector<ll> VLL;
+#define fi first
+#define se second
+#define mp make_pair
+#define pb push_back
 #define LOWBIT1(x) ((x)&(-(x)))
+
 
 inline void initIO() {
 #ifdef LOCAL

@@ -5,23 +5,15 @@
 
 typedef long long ll;
 typedef unsigned long long ull;
-typedef long double ld;
-typedef vector<ll> VLL;
 typedef vector<int> VI;
-typedef long long ll;
-typedef unsigned long long ull;
-typedef long double ld;
-typedef vector<ll> VLL;
-typedef vector<int> VI;
-#define ALL(a) begin(a),end(a)
 #define PII pair<int,int>
-#define PLL pair<ll,ll>
-#define LOWBIT1(x) ((x)&(-(x)))
-
+#define For(i,a,b) for(auto i=(a);i<(b);++i)
 
 class Solution {
 
 };
+
+
 
 #ifdef LOCAL
 namespace SOLVE {

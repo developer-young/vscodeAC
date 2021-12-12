@@ -5,19 +5,12 @@ using namespace std;
 
 typedef long long ll;
 typedef unsigned long long ull;
-typedef long double ld;
-typedef vector<ll> VLL;
 typedef vector<int> VI;
-typedef long long ll;
-typedef unsigned long long ull;
-typedef long double ld;
-typedef vector<ll> VLL;
-typedef vector<int> VI;
-#define ALL(a) begin(a),end(a)
 #define PII pair<int,int>
-#define PLL pair<ll,ll>
-#define LOWBIT1(x) ((x)&(-(x)))
+#define For(i,a,b) for(auto i=(a);i<(b);++i)
+#define Rep(i,n) For(i,0,(n))
 
+#define ALL(a) begin(a),end(a)
 template<typename T, typename S>
 inline bool upmin(T &a, const S &b) { return a > b ? a = b, 1 : 0; }
 template<typename T, typename S>
