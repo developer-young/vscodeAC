@@ -8,6 +8,7 @@ typedef unsigned long long ull;
 typedef vector<int> VI;
 #define PII pair<int,int>
 #define For(i,a,b) for(auto i=(a);i<(b);++i)
+#define Rep(i,n) For(i,0,(n))
 
 class Solution {
 
